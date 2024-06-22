@@ -1,0 +1,29 @@
+Free Code Camp: Focuses on web development (HTML, CSS, JavaScript) with a hands-on approach through projects.
+Free Code Camp
+
+Linux Academy: Specializes in Linux and cloud technologies, offering courses and hands-on labs.
+Linux Academy
+
+DataCamp: Concentrates on data science, offering courses in Python, R, data manipulation, visualization, and analysis.
+DataCamp
+
+SQLZoo: Provides interactive SQL tutorials and exercises for learning and practicing SQL queries.
+SQLZoo
+
+Hack Reactor Prep: Prepares learners for the Hack Reactor software engineering immersive program with targeted courses and resources.
+Hack Reactor Prep
+
+LearnOpenGL: Specializes in OpenGL programming for graphics and game development, providing tutorials and examples.
+LearnOpenGL
+
+Android Developers Training: Offers courses and resources for Android app development, including documentation and tutorials.
+Android Developers Training
+
+Unity Learn: Focuses on Unity game development, offering tutorials, projects, and resources for creating games.
+Unity Learn
+
+Machine Learning Mastery: Concentrates on machine learning and deep learning techniques, providing tutorials, courses, and practical examples.
+Machine Learning Mastery
+
+Cisco Networking Academy: Offers courses in networking technologies and Cisco certifications, including hands-on labs and learning resources.
+Cisco Networking Academy
